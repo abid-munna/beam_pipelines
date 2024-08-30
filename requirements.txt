@@ -1,0 +1,4 @@
+faker
+geocoder
+kafka-python
+kafka-python-ng
