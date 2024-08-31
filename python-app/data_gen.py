@@ -243,3 +243,7 @@ if __name__ == "__main__":
         os.getenv("TOPIC_NAME", "website-visit"),
     )
     gen.generate_events()
+
+
+
+    #python data_gen.py --source streaming --num_users 5 --delay_seconds 0.5
